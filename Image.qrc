@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/Image">
+        <file alias="LEFT">Image/left.png</file>
+        <file alias="RIGHT">Image/right.png</file>
+        <file alias="ZOOM">Image/zoom.png</file>
+        <file alias="TRASH">Image/Trash.png</file>
+    </qresource>
+</RCC>
